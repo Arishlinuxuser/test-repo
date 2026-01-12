@@ -1,3 +1,3 @@
-// Add new feature to app.js
+// Add new feature - bug fix
 
 console.log("New feature added!");
