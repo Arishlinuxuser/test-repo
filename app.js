@@ -1,3 +1,3 @@
-// Add new feature to app.js
+// Add new feature - input
 
 console.log("New feature added!");
